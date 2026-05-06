@@ -1,7 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [upscayl-2.15.0-win](./upscayl-2.15.0-win)
-- [video2x-qt6-windows-amd64-installer](./video2x-qt6-windows-amd64-installer)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
