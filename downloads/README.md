@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [upscayl-2.15.0-win](./upscayl-2.15.0-win)
 
 ---
 
