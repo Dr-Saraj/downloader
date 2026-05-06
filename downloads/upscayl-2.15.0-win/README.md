@@ -6,8 +6,8 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `upscayl-2.15.0-win.zip` |
-| **Total Size** | **7 parts** - **290.15 MB** |
+| **Original File** | `upscayl-2.15.0-win.exe` |
+| **Total Size** | **6 parts** - **248.82 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -23,7 +23,6 @@
 | 4 | `upscayl-2.15.0-win.7z.004` | [Download](https://github.com/Dr-Saraj/downloader/raw/main/downloads/upscayl-2.15.0-win/upscayl-2.15.0-win.7z.004) |
 | 5 | `upscayl-2.15.0-win.7z.005` | [Download](https://github.com/Dr-Saraj/downloader/raw/main/downloads/upscayl-2.15.0-win/upscayl-2.15.0-win.7z.005) |
 | 6 | `upscayl-2.15.0-win.7z.006` | [Download](https://github.com/Dr-Saraj/downloader/raw/main/downloads/upscayl-2.15.0-win/upscayl-2.15.0-win.7z.006) |
-| 7 | `upscayl-2.15.0-win.7z.007` | [Download](https://github.com/Dr-Saraj/downloader/raw/main/downloads/upscayl-2.15.0-win/upscayl-2.15.0-win.7z.007) |
 
 ---
 
