@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [v1-5-pruned-emaonly-fp16](./v1-5-pruned-emaonly-fp16)
 
 ---
 
