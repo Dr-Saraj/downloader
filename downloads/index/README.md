@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `index.m3u8` |
-| **Size** | .64 MB |
+| **Size** | .63 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
